@@ -1,6 +1,6 @@
 This project is done for empowering data-driven decisions and insightful visualizations, which enhances organizational efficiency and strategic planning.
 
-Live Dashboard -
+Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiYmYzMTU0MjEtYzdmOC00ZTlmLTg5MWMtNDRhYWU1NjUxMmZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 Problem Statement -
 
